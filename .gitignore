@@ -1,0 +1,4 @@
+# 排除 build 目录
+build/
+CMakeLists.txt.user
+anime.mp4
