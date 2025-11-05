@@ -1,4 +1,6 @@
-# use_ffmpeg
+# VideoPlayer
+
+<img width="1791" height="1008" alt="image" src="https://github.com/user-attachments/assets/a234a011-38f6-4752-bf82-49076b13e8a3" />
 
 一个极简的基于 Qt6 的视频播放器示例，演示如何在 Windows 上使用 vcpkg 提供的静态 FFmpeg 库进行集成。
 
@@ -33,5 +35,6 @@ cmake --build build --config Release
 
 License
 - 本仓库使用 MIT 许可证（见 `LICENSE` 文件）。
+
 
 如果你希望我把 README 提交到仓库（git commit），或者要我把 README 内容做得更详细（添加 API、类说明、截图），告诉我下一步即可。
