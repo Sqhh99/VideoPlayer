@@ -35,6 +35,3 @@ cmake --build build --config Release
 
 License
 - 本仓库使用 MIT 许可证（见 `LICENSE` 文件）。
-
-
-如果你希望我把 README 提交到仓库（git commit），或者要我把 README 内容做得更详细（添加 API、类说明、截图），告诉我下一步即可。
